@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Task/static/css/main.d557d176.css",
+    "main.js": "/React-Task/static/js/main.6e217c13.js",
+    "static/media/food4.jpg": "/React-Task/static/media/food4.842609beaaa3ffeb32a5.jpg",
+    "static/media/logo.jpg": "/React-Task/static/media/logo.63e3b08f41920c615dfc.jpg",
+    "static/media/food7.jpg": "/React-Task/static/media/food7.9aaaeefd7a2e49246426.jpg",
+    "static/media/food1.jpg": "/React-Task/static/media/food1.28cb013b9008452f0d4e.jpg",
+    "static/media/food2.jpg": "/React-Task/static/media/food2.3eecaf92a21c03982285.jpg",
+    "static/media/food3.jpg": "/React-Task/static/media/food3.90edec25f99ddae74be2.jpg",
+    "index.html": "/React-Task/index.html",
+    "main.d557d176.css.map": "/React-Task/static/css/main.d557d176.css.map",
+    "main.6e217c13.js.map": "/React-Task/static/js/main.6e217c13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d557d176.css",
+    "static/js/main.6e217c13.js"
+  ]
+}
